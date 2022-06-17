@@ -1,0 +1,31 @@
+/*
+1 Posicionamiento
+2 Modelo de caja
+3 Tipografía
+4 Visuales
+5 Otros
+*/
+
+:root{
+    --bitcoin-orange: #F7931A;
+    --soft-orange: ##FFE9D5;
+    --secundary-blue: #1A9AF7;
+    --soft-blue: #E7F5FF;
+    --warn-black: #201E1C;
+    --black: #282623;
+    --grey: #BABABA;
+    --off-withe: #FAF8F7;
+    --white: #FFFFFF;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Inter', sans-serif;
+}
