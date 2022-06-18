@@ -36,7 +36,7 @@ header{
     flex-direction: column;
     justify-content: center;
     width: 100%;
-    min-width: 320px;
+    min-width: 280px;
     height: 334px;
     align-items: center;
     text-align: center;
@@ -96,4 +96,28 @@ header{
     width: 13px;
     height: 8px;
     background-image: url('../assets/assets/icons/down-arrow.svg');
+}
+
+main{
+    width: 100%;
+    height: auto;
+    background-color: var(--off-withe);
+}
+
+.main--exchange-container{
+    width: 100%;
+    height: auto;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.main--exchange-container--title{
+    width:90%;
+    min-width: 228px;
+    max-width: 900px;
+    margin: 0 auto;
 }
