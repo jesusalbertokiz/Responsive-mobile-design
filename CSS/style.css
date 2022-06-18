@@ -29,3 +29,29 @@ html{
     font-family: 'DM Sans', sans-serif;
     font-family: 'Inter', sans-serif;
 }
+
+header{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    min-width: 320px;
+    height: 334px;
+    align-items: center;
+    text-align: center;
+}
+
+.logo{
+    width: 151px;
+    height: 24px;
+    margin-top: 40px;
+}
+
+.header--title-container{
+    width: 90%;
+    min-width: 228px;
+    max-width: 900px;
+    height: 218px;
+    margin-top: 40px;
+}
