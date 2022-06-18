@@ -273,7 +273,7 @@ main{
     background-image: url('../assets/assets/icons/trending-up.svg');
 }
 
-.table-description{
+.table-date{
     width: 230px;
     height: 35px;
     grid-area: l;
@@ -283,10 +283,10 @@ main{
     font-size: 1.2rem;;    
     line-height: 1.5rem;
 }
-    .currency .table-description{
+    .currency .table-date{
         background-color: var(--soft-orange);
     }
 
-    .fees .table-description{
+    .fees .table-date{
         background-color: var(--soft-blue);
     }
