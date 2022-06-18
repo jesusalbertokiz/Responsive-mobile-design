@@ -71,3 +71,29 @@ header{
     line-height: 1.8rem;
     color: var(--soft-orange);
 }
+
+.header--title-container .header--buttom{
+    position: absolute;
+    left: calc(50% - 114px);
+    top: 270px;
+    display: block;
+    margin-top: 35px;
+    padding: 15px;
+    width: 229px;
+    height: 50px;
+    background-color: var(--off-withe);
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    border: none;
+    text-decoration: none;
+    color: var(--black);
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.header--buttom span{
+    display: inline-block;
+    width: 13px;
+    height: 8px;
+    background-image: url('../assets/assets/icons/down-arrow.svg');
+}
