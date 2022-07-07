@@ -95,7 +95,7 @@ header{
     display: inline-block;
     width: 13px;
     height: 8px;
-    background-image: url('../assets/assets/icons/down-arrow.svg');
+    background-image: url('../assets/icons/down-arrow.svg');
 }
 
 main{
@@ -144,7 +144,7 @@ main{
     height:200px;
     margin: 0 auto;
     margin-bottom: 50px;
-    background-image: url('../assets/assets/img/bitcoin.svg');
+    background-image: url('../assets/img/bitcoin.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -214,12 +214,12 @@ main{
 
     .currency .arrow{
         margin: 0 0 65px 7px;
-        background-image: url('../assets/assets/icons/right-arrow.svg');
+        background-image: url('../assets/icons/right-arrow.svg');
     }
 
     .fees .arrow{
         margin-bottom: 65px;
-        background-image: url('../assets/assets/icons/left-arrow.svg');
+        background-image: url('../assets/icons/left-arrow.svg');
     }
 
 
@@ -266,11 +266,11 @@ main{
     width: 12px;
     height: 12px;
     display: inline-block;
-    background-image: url('../assets/assets/icons/trending-down.svg');
+    background-image: url('../assets/icons/trending-down.svg');
 }
 
 .up span{ 
-    background-image: url('../assets/assets/icons/trending-up.svg');
+    background-image: url('../assets/icons/trending-up.svg');
 }
 
 .table-date{
